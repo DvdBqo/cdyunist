@@ -1,0 +1,24 @@
+
+{{- $align := or (.Get "align") "left" -}}     {{/* left|center|right|justify */}}
+{{- $float := or (.Get "float") "" -}}         {{/* left|right|"" */}}
+{{- $w := .Get "w" -}}                         {{/* px o %: 320, 60% */}}
+{{- $maxw := .Get "maxw" -}}                   {{/* px opcional */}}
+{{- $bg := .Get "bg" -}}
+{{- $color := .Get "color" -}}
+{{- $p := or (.Get "p") "0" -}}                {{/* padding en px */}}
+
+{{- $styles := slice (printf "text-align:%s" $align) (printf "padding:%spx" $p) -}}
+{{- if $w    }} {{ $styles = $styles | append (printf "width:%s" $w) }} {{ end -}}
+{{- if $maxw }} {{ $styles = $styles | append (printf "max-width:%spx" $maxw) }} {{ end -}}
+{{- if $bg   }} {{ $styles = $styles | append (printf "background:%s" $bg) }} {{ end -}}
+{{- if $color}} {{ $styles = $styles | append (printf "color:%s" $color) }} {{ end -}}
+{{- if or (eq $float "left") (eq $float "right") -}}
+  {{- $styles = $styles | append (printf "float:%s" $float) | append "margin:0.5rem" -}}
+{{- else -}}
+  {{- $styles = $styles | append "margin:0.5rem 0" -}}
+{{- end -}}
+
+<div style="{{ delimit $styles "; " }}">
+  {{ .Inner | markdownify }}
+</div>
+

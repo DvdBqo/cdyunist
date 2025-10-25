@@ -1,0 +1,18 @@
+
+
+
+{{- $size := or (.Get "size") "" -}}     {{/* ej: 24px, 1.2rem */}}
+{{- $color := or (.Get "color") "" -}}   {{/* ej: #e11d48, red */}}
+{{- $weight := or (.Get "weight") "" -}} {{/* 400, 700, bold */}}
+{{- $lh := .Get "lh" -}}                 {{/* line-height opcional */}}
+
+{{- $styles := slice -}}
+{{- if $size  }} {{ $styles = $styles | append (printf "font-size:%s" $size) }} {{ end -}}
+{{- if $color }} {{ $styles = $styles | append (printf "color:%s" $color) }} {{ end -}}
+{{- if $weight}} {{ $styles = $styles | append (printf "font-weight:%s" $weight) }} {{ end -}}
+{{- if $lh    }} {{ $styles = $styles | append (printf "line-height:%s" $lh) }} {{ end -}}
+
+<span style="{{ delimit $styles "; " }}">
+  {{ .Inner | markdownify }}
+</span>
+

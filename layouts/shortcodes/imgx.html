@@ -1,0 +1,83 @@
+{{- /* Parámetros generales */ -}}
+{{- $src    := .Get "src" -}}
+{{- $alt    := or (.Get "alt") "" -}}
+{{- $w      := or (.Get "w") "200" -}}          {{/* ancho máximo en px (default 200) */}}
+{{- $h      := .Get "h" -}}                     {{/* alto máx opcional */}}
+{{- $layout := or (.Get "layout") "solo" -}}    {{/* "solo" | "left" | "right" */}}
+{{- $cap    := .Get "caption" -}}
+
+{{- /* Resolver URL de la imagen (bundle o static) */ -}}
+{{- $img := .Page.Resources.GetMatch $src -}}
+{{- $url := "" -}}
+{{- if $img -}}
+  {{- $url = $img.RelPermalink -}}
+{{- else -}}
+  {{- if hasPrefix $src "/" -}}
+    {{- $url = $src -}}
+  {{- else -}}
+    {{- $url = printf "/%s" $src -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Construimos estilos inline según layout */ -}}
+
+{{- $styles := slice -}}
+
+{{- /* Tamaño máximo */ -}}
+{{- $styles = $styles | append (printf "max-width:%spx" $w) -}}
+{{- if $h -}}
+  {{- $styles = $styles | append (printf "max-height:%spx" $h) -}}
+{{- end -}}
+
+{{- /* Comunes */ -}}
+{{- $styles = $styles | append "height:auto" -}}
+{{- $styles = $styles | append "text-align:center" -}}
+{{- $styles = $styles | append "vertical-align:middle" -}}
+
+{{- if eq $layout "solo" -}}
+  {{- /* bloque centrado, ocupa toda la línea */ -}}
+  {{- $styles = $styles | append "display:block" -}}
+  {{- $styles = $styles | append "margin:1rem auto" -}}
+  {{- $styles = $styles | append "float:none" -}}
+
+{{- else if eq $layout "left" -}}
+  {{- $styles = $styles | append "display:inline-block" -}}
+  {{- $styles = $styles | append "float:left" -}}
+  {{- $styles = $styles | append "margin:1rem 1rem 1rem 0" -}}
+
+{{- else if eq $layout "right" -}}
+  {{- $styles = $styles | append "display:inline-block" -}}
+  {{- $styles = $styles | append "float:right" -}}
+  {{- $styles = $styles | append "margin:1rem 0 1rem 1rem" -}}
+
+{{- else if eq $layout "row" -}}
+  {{- $styles = $styles | append "display:inline-block" -}}
+  {{- $styles = $styles | append "margin:0.5rem 1rem" -}}
+  {{- $styles = $styles | append "float:none" -}}
+
+{{- else -}}
+  {{- /* fallback: compórtate como "solo" */ -}}
+  {{- $styles = $styles | append "display:block" -}}
+  {{- $styles = $styles | append "margin:1rem auto" -}}
+  {{- $styles = $styles | append "float:none" -}}
+{{- end -}}
+
+{{- $styleAttr := printf "style=\"%s\"" (delimit $styles "; ") -}}
+
+<span class="imgx-block" {{ $styleAttr | safeHTMLAttr }}>
+  <img src="{{ $url }}"
+       alt="{{ $alt }}"
+       loading="lazy"
+       style="width:100%;height:auto;display:block;object-fit:contain;">
+{{ with $cap }}
+  <span class="imgx-caption" style="font-size:0.8em;opacity:.7;display:block;margin-top:0.25rem;">
+    {{ . | safeHTML }}
+  </span>
+{{ end }}
+</span>
+
+
+
+
+
+
