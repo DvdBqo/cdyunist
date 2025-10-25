@@ -17,5 +17,3 @@ Su colaboración nos ayuda con material, equipaciones y desplazamientos durante 
 
 
 
-- {{<extlink text="Chef-hat icons created by Cuputo - Flaticon" href="https://www.flaticon.com/free-icons/chef-hat" icon="fa fa-external-link">}}
-
