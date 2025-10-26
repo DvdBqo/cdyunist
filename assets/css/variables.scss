@@ -1,7 +1,7 @@
 :root {
 
     /* === Cover / Landing area === */
-    --cover-text-color: #c5e41a;
+    --cover-text-color: #d7e41a;
     /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
     --highlight: #01064d;
     --highlight-contrast: var(--cover-text-color);
@@ -44,5 +44,5 @@
 
     /* === Lists === */
     /* define list element for unnumbered lists, leave empty for default list element */
-    --ul-li-icon: fa-asterisk;
+    --ul-li-icon: fa-solid fa-basketball;
 }

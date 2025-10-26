@@ -87,7 +87,7 @@ enableEmoji = true
     [[params.contacts]]
         label = "email"
         value = "Gmail"
-        url = "mailto:mail@janedoe.com"
+        url = "mailto:cdyunist@gmail.com"
         icon = "fa-brands fa-google"
 
     [[params.contacts]]

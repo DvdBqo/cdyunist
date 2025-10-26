@@ -1,0 +1,14 @@
+/* Forzar color único SOLO para el título grande */
+#site-head .blog-title {
+  color: #01064d !important;   /* <-- pon aquí el color que quieres para "CD Yunist" */
+  text-shadow: 0 0 6px #d7e41a !important;           /* opcional: quita o cambia la sombra si no te gusta */
+}
+
+/* Controlar el subtítulo bajo el título grande */
+#site-head .blog-description {
+  color:#d7e41a !important;        /* color del texto "Club de baloncesto" */
+  text-shadow: 2px 2px 6px #000000 !important;     /* halo negro suave para que se lea sobre el fondo */
+  font-size: 1.5rem;                /* tamaño del subtítulo */
+  font-weight: 400;                 /* grosor de la letra */
+  margin-top: 0.5rem;               /* separación con el título */
+}

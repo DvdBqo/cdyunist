@@ -4,34 +4,28 @@ weight: 3
 header_menu: true
 ---
 
-Horarios
+Entrenamientos
 
-Sede: Cancha de deportes del **I.E.S Bénito Pérez Armas**.
+**Sede**: Cancha de deportes del **I.E.S Bénito Pérez Armas**.
 
-Duración de cada entreno: [90 min / 120 min].
+**Horario**: 17:55h - 19:00h.
 
 ---
 
-##### Infantil Masculino (2012–2013):
+##### Infantil (2012–2013):
 
-Día 1: [día] · [hora inicio–hora fin]
+- **Días**: Lunes - Martes - Jueves · 
 
-Día 2: [día] · [hora inicio–hora fin]
-
-#### Infantil Femenino (2012–2013):
-
-Día 1: [día] · [hora inicio–hora fin]
-
-Día 2: [día] · [hora inicio–hora fin]
-
-Partidos: [sábado/domingo] según calendario de [liga/federación].
+- **Partidos** *según calendario* : Sábado/Domingo · 
 
 ---
 
 Notas
 
-Festivos y puentes: se comunica por [WhatsApp/Email].
+- Competimos en la liga Infantil B de la Fed Ins de Baloncesto de Tenerife (FIBT) 
 
-Recuperación de sesiones: [política breve] (p. ej., “se recupera dentro de la misma semana si hay pista”).
+- Festivos y puentes: se comunica por [WhatsApp/Email].
+
+
 
 

@@ -9,6 +9,12 @@ detailed_page_homepage_content: true
 ---
 #### Tablón de Noticias
 
-Aquí publicamos avisos importantes del club, cambios de horarios, convocatorias y resultados destacados de nuestros equipos Infantiles (masculino y femenino, 2012–2013). Mantente al día.
+Aquí publicamos avisos importantes del club, cambios de horarios, convocatorias y resultados destacados de nuestros equipos.
+
+Mantente al día.
 
 ---
+#### ¡¡QUEDAN SOLO DOS PLAZAS DISPONIBLES!!
+
+![Folleto](/images/folleto.jpeg)
+
