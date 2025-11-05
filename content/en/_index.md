@@ -10,7 +10,7 @@ header_logo: "images/256.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "CD Yunist"
-header_subheadline: "<b>Club de baloncesto</b>"
+header_subheadline: "<b>Club de Deportivo Baloncesto</b>"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
