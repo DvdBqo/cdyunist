@@ -1,7 +1,7 @@
 ---
 title: "Noticias"
 weight: 98
-header_menu_title: "Noticias"
+header_menu_title: "Donaciones"
 navigation_menu_title: "Noticias"
 header_menu: true
 detailed_page_path: /legal/

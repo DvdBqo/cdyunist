@@ -6,5 +6,5 @@ Somos el **Club Deportivo Yunist**, un proyecto nuevo con muchas ganas de crecer
 
 Entrenamos tres veces por semana en el I.E.S Benito Pérez Armas en S/C de Tenerife, competimos cada fin de semana, con el objetivo de aprender competir y disfrutar del baloncesto.
 
-{{<imgx src="images/Team.jpeg" alt="Equipo 25/26" w="400" layout="solo" >}}
+{{<imgx src="images/team26.jpeg" alt="Equipo 25/26" w="400" layout="solo" >}}
 

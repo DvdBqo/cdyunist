@@ -10,7 +10,7 @@ Nuestras categorias:
 
 - Infantil Mixto (2012/2013)
 
-- Aprenderás, táctica básica, técnica, progresión de fundamentos, toma de decisiones y juego colectivo
+- Aprenderás táctica básica, técnica, progresión de fundamentos, toma de decisiones y juego colectivo
 
 ---
 ##### Requisitos

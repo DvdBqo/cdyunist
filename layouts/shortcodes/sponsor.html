@@ -1,0 +1,25 @@
+{{- $gap := or (.Get "gap") "1rem" -}}
+{{- $min := or (.Get "min") "160px" -}}
+<div class="sponsors" style="
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax({{ $min }}, 1fr));
+  gap: {{ $gap }};
+  align-items:center;
+  justify-items:center;
+">
+  <style>
+    /* Solo dentro del bloque sponsors-compat */
+    .sponsors-compat img,
+    .sponsors-compat figure,
+    .sponsors-compat .imgx,
+    .sponsors-compat [data-imgx]{
+      float: none !important;
+      display: block !important;
+      margin: 0 auto !important;
+      max-width: 100% !important;
+      height: auto !important;
+    }
+  </style>
+  {{ .Inner }}
+</div>
+

@@ -8,7 +8,7 @@ Entrenamientos
 
 **Sede**: Cancha de deportes del **I.E.S Bénito Pérez Armas**.
 
-**Horario**: 17:55h - 19:00h.
+**Horario**: 17:50h - 19:00h.
 
 ---
 
@@ -16,7 +16,8 @@ Entrenamientos
 
 - **Días**: Lunes - Martes - Jueves · 
 
-- **Partidos** *según calendario* : Sábado/Domingo · 
+- **Partidos** :[Calendario de fechas](/docs/fechas.pdf)
+
 
 ---
 
@@ -24,7 +25,7 @@ Notas
 
 - Competimos en la liga Infantil B de la Fed Ins de Baloncesto de Tenerife (FIBT) 
 
-- Festivos y puentes: se comunica por [WhatsApp/Email].
+
 
 
 
