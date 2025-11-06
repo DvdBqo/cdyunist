@@ -7,17 +7,10 @@ Tu ayuda mantiene vivo el Club y nos permite crecer. Cubre material deportivo, a
 
 Cada aportación cuenta.
 
-❤️❤️{{< donar url="https://donate.stripe.com/test_bJe5kw2imbIRcBS53Zffy00" label="Haz tu donación" >}}❤️❤️
+❤️❤️{{< donar url="https://donate.stripe.com/test_bJe5kw2imbIRcBS53Zffy00" label="Haz tu donación aquí" >}}❤️❤️
 
 
 ***Métodos de pago disponibles:** tarjeta (Visa, Mastercard, American Express), Apple Pay y Google Pay*.
-
-### Bizum
-Escanéalo con tu app bancaria:
-![QR Bizum](/images/pedro.png)
-
-> También puedes donar enviando Bizum al **678 917 011** (concepto: *Donación equipo infantil*).
-
 ---
 
 - Las donaciones se destinan a material, arbitrajes y viajes.
