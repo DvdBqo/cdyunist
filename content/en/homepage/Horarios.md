@@ -1,7 +1,7 @@
 ---
 title: "Horarios"
-weight: 3
-header_menu: true
+weight: 6
+header_menu: false
 ---
 
 Entrenamientos
