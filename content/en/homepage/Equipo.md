@@ -14,8 +14,6 @@ Nuestras categorias:
 
 - Cadete Masculino (2011/2012)
 
-- Aprenderás táctica básica, técnica, progresión de fundamentos, toma de decisiones y juego colectivo
-
 ---
 ##### Requisitos
 
