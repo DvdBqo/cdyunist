@@ -8,15 +8,21 @@ header_menu: true
 
 Nuestras categorias:
 
-- Infantil Mixto (2012/2013)
+- Minibasket Mixto (2015/2016)
+
+- Infantil Mixto (2013/2014)
+
+- Cadete Masculino (2011/2012)
 
 - Aprenderás táctica básica, técnica, progresión de fundamentos, toma de decisiones y juego colectivo
 
 ---
 ##### Requisitos
 
-- **Edad**: 12–13 años (Chicos y Chicas - nacidos/as 2012/2013)
+- **Chicas**: De 10 a 13 años (2013/2016)
 
+- **Chicos**: De 10 a 15 años (2011/2016)
+  
 - **Material requerido**: Unicamente zapatillas de baloncesto. Les damos equipajes de juego y de entrenamiento a nuestros jugadores.
 
 
