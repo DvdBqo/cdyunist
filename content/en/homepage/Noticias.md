@@ -16,5 +16,5 @@ Mantente al día.
 ---
 #### ¡¡PLAZAS DISPONIBLES!!
 
-![Folleto](/images/folleto2026.jpeg)
+![Folleto](/images/folleto2026.jpg)
 
