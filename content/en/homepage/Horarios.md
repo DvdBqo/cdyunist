@@ -4,9 +4,10 @@ weight: 6
 header_menu: false
 ---
 
-Entrenamientos
+**Sedes**: 
 
-**Sedes**: Canchas de deportes del **I.E.S Benito Pérez Armas** y  **CEIP Salamanca**.
+- **I.E.S Benito Pérez Armas**
+- **CEIP Salamanca**
 
 **Horario**: Los horarios definitivos de entrenamiento se publicarán una vez finalizado el proceso de inscripción y confirmados los equipos de cada categoría.
 
