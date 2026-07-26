@@ -6,9 +6,9 @@ header_menu: true
 
 Cuotas de temporada
 
-- Infantil y cadete: 280 €
+- Infantil / Cadete: 280 €
 
-- Minibásquet: 260 €
+- Minibasket: 260 €
 
 ---
 ##### Descuentos
