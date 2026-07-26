@@ -1,30 +1,42 @@
 ---
-title: "Horarios"
+title: "Entrenamientos"
 weight: 6
 header_menu: false
 ---
 
 Entrenamientos
 
-**Sede**: Cancha de deportes del **I.E.S Benito Pérez Armas**.
+**Sedes**: Canchas de deportes del **I.E.S Benito Pérez Armas** y  **CEIP Salamanca**.
 
-**Horario**: 17:50h - 19:30h.
+**Horario**: Los horarios definitivos de entrenamiento se publicarán una vez finalizado el proceso de inscripción y confirmados los equipos de cada categoría.
 
 ---
 
-##### Infantil (2012–2013):
+##### Minibasket (2015–2016):
 
-- **Días**: Lunes - Martes - Jueves · 
+- **Días**: Pendiente de calendarios
 
 - **Partidos** :[Calendario de fechas](/docs/fechas.pdf)
 
 ---
 
-Notas
+##### Infantil (2013–2014):
 
-- Competimos en la Liga Infantil B de la Federación Insular de Baloncesto de Tenerife (FIBT).
+- **Días**: Pendiente de calendarios
 
-- Los entrenamientos y los partidos en casa se disputan en nuestra sede.
+- **Partidos** :[Calendario de fechas](/docs/fechas.pdf)
+
+---
+
+##### Cadete (2011–2012):
+
+- **Días**: Pendiente de calendarios
+
+- **Partidos** :[Calendario de fechas](/docs/fechas.pdf)
+
+---
+
+
 
 
 
