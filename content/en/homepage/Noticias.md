@@ -14,7 +14,7 @@ Aquí publicamos avisos importantes del club, cambios de horarios, convocatorias
 Mantente al día.
 
 ---
-#### ¡¡QUEDAN SOLO DOS PLAZAS DISPONIBLES!!
+#### ¡¡PLAZAS DISPONIBLES!!
 
-![Folleto](/images/folleto.jpeg)
+![Folleto](/images/folleto2026.jpeg)
 
