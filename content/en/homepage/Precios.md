@@ -13,7 +13,7 @@ Cuotas de temporada
 ---
 ##### Descuentos
 
-- Alumnado del IES Benito Pérez Armas y del CEIP Salamanca: −10 €
+- Alumnado IES Benito Pérez Armas / CEIP Salamanca: −10 €
 - Pago único: −10 € (Septiembre)
 - Pago en dos plazos: −6 € (Septiembre y Octubre)
 - Inscripción por recomendación: −20 €
