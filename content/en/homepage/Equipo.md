@@ -23,4 +23,12 @@ Nuestras categorias:
   
 - **Material requerido**: Unicamente zapatillas de baloncesto. Les damos equipajes de juego y de entrenamiento a nuestros jugadores.
 
+---
+
+Notas
+
+- Competimos en la Liga Infantil B de la Federación Insular de Baloncesto de Tenerife (FIBT).
+
+- Los entrenamientos y los partidos en casa se disputan en nuestra sede.
+
 
