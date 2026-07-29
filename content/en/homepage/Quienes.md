@@ -1,5 +1,5 @@
 ---
-title: "QBienvenidos al Club Deportivo Yunist"
+title: "Bienvenidos al Club Deportivo Yunist"
 weight: 1
 ---
 En el Club Deportivo Yunist creemos que el baloncesto es mucho más que un deporte. Es una herramienta para formar personas, crear amistades, desarrollar hábitos saludables y transmitir valores que acompañarán a nuestros jugadores durante toda la vida.
