@@ -7,11 +7,10 @@ Tu ayuda mantiene vivo el Club y nos permite crecer. Cubre material deportivo, a
 
 Cada aportación cuenta.
 
-***Métodos de pago disponibles:** tarjeta (Visa, Mastercard, American Express), Apple Pay y Google Pay*.
+***Pago a través de transferencia*** 
 
-### ❤️❤️{{< donar url="https://donate.stripe.com/test_bJe5kw2imbIRcBS53Zffy00" label="Haz tu donación aquí" >}}❤️❤️
-
-
+**ES17 0049 5323 9924 1625 8740**
+**Propietario: Club Deportivo Yunist**
 
 
 ---
