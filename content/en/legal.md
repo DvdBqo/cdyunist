@@ -10,6 +10,7 @@ Cada aportación cuenta.
 ***Pago a través de transferencia*** 
 
 **ES17 0049 5323 9924 1625 8740**
+
 **Propietario: Club Deportivo Yunist**
 
 
