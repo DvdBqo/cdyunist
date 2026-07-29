@@ -6,9 +6,13 @@ weight: 2
 header_menu: true
 ---
 
-Nuestras categorias:
+##### Nuestras categorias:
+
+**En el CEIP Salamanca:**
 
 - Minibasket Mixto (2015/2016)
+
+**En el IES Benito Pérez Armas:**
 
 - Infantil Mixto (2013/2014)
 
@@ -17,11 +21,11 @@ Nuestras categorias:
 ---
 ##### Requisitos
 
-- **Chicas**: De 10 a 13 años (2013/2016)
+- **Chicas**: De 10 a 13 años (del 2013 al 2016)
 
-- **Chicos**: De 10 a 15 años (2011/2016)
+- **Chicos**: De 10 a 15 años (del 2011 al 2016)
   
-- **Material requerido**: Unicamente zapatillas de baloncesto. Les damos equipajes de juego y de entrenamiento a nuestros jugadores.
+- **Material requerido**: Únicamente zapatillas de baloncesto. Les damos equipajes de juego y de entrenamiento a nuestros jugadores.
 
 ---
 
