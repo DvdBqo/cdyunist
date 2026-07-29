@@ -1,5 +1,5 @@
 ---
-title: "Noticias"
+title: ""
 weight: 98
 header_menu_title: "Donaciones"
 navigation_menu_title: ""
