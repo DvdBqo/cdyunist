@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "¡¡PLAZAS DISPONIBLES!!"
 weight: 98
 header_menu_title: "Donaciones"
 navigation_menu_title: ""
@@ -8,7 +8,6 @@ detailed_page_path: /legal/
 detailed_page_homepage_content: true
 ---
 
-#### ¡¡PLAZAS DISPONIBLES!!
 
 ![Folleto](/images/folleto2026.jpg)
 
